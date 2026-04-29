@@ -105,7 +105,7 @@ tkinter
 ## Установка
 
 ```bash
-git clone <https://github.com/moroznz/void>
+git clone https://github.com/moroznz/void.git
 cd void
 python void.py
 ```
@@ -231,7 +231,7 @@ tkinter
 ## Installation
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/moroznz/void.git
 cd void
 python void.py
 ```
@@ -336,7 +336,7 @@ Compatible avec environnement Python 3.
 ## Installation
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/moroznz/void.git
 cd void
 python void.py
 ```
