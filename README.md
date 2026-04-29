@@ -105,7 +105,7 @@ tkinter
 ## Установка
 
 ```bash
-git clone <your-repo-url>
+git clone <[your-repo-url](https://github.com/moroznz/void)>
 cd void
 python void.py
 ```
